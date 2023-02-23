@@ -1,12 +1,13 @@
 #include <iostream>;
 #include <stdlib.h>
 #include <math.h>;
-// Aquí incluimos las librerías necesarias
+// AquÃ­ incluimos las librerÃ­as necesarias
  
 using namespace std;
-// Aquí incluimos el namespace standard
+// AquÃ­ incluimos el namespace standard
  
 int main(){
+	//Menu por el cual se le pregunta al usuario que operacion desea realizar.
 	int num1 = 0;
 	int num2 = 0;
 	int opc = 0;
