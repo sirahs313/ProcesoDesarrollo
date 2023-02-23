@@ -24,6 +24,7 @@ int main(){
 	cin >> opc;
 	while(opc >= 1){
 		switch(opc){
+				//Dependiendo de la opcion que ingrese el usuario, la calculadora realizara diferentes procesos.
 			case 1:
 				cout << "\nIntroduzca el primer numero: ";
 				cin >> num1;
