@@ -8,6 +8,7 @@ using namespace std;
  
 int main(){
 	//Menu por el cual se le pregunta al usuario que operacion desea realizar.
+	system ("color 70");
 	int num1 = 0;
 	int num2 = 0;
 	int opc = 0;
@@ -98,3 +99,4 @@ int main(){
 		}
 	}
 }
+//Prueba 
